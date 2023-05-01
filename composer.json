@@ -19,9 +19,9 @@
         "metrics"
     ],
     "require": {
-        "illuminate/support": "~8|~9",
+        "illuminate/support": "~8|~9|~10",
         "inertiajs/inertia-laravel": "^0.2.12|^0.6.9",
-        "nuwave/lighthouse": "dev-master||^5"
+        "nuwave/lighthouse": "dev-master||^5||^6"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3",
